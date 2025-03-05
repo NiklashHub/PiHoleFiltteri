@@ -160,7 +160,6 @@ sandbox.google-analytics.com
 ssl.google-analytics.com
 tagmanager.google.com
 test-web.googletagmanager.com
-update.googleapis.com
 wp.googletagmanager.com
 www-googletagmanager.l.google.com
 www.ctp.googletagmanager.com
