@@ -13,30 +13,66 @@ ac.duckduckgo.com
 adyen.com # Used on SwissCows
 analytics.yahoo.com
 bat.bing.com
-delivery.askmediagroup.com # Ask js
+delivery.askmediagroup.com
 improving.duckduckgo.com
-mc.yandex.ru
-pixel.tatpek.com # Dogpile Statistics
-s1.qwant.com # Had something with 3rd party URLs to do.
-soflopxl.com # Dogpile
-www.smartredirect.de # Used on SwissCows
+pixel.tatpek.com
+s1.qwant.com
+smartredirect.de # Used on SwissCows
+soflopxl.com
+yandex.ru
 
 ## GGL Apis ##
+1.chromefeedcontentsuggestions-pa.googleapis.com
 ajax.googleapis.com
-androidpay-users-pa.googleapis.com # Even if not active user
+androidpay-users-pa.googleapis.com
+androidsuggesthub-pa.googleapis.com
+appinvite-ipv4-pa.googleapis.com
+appinvite-ipv6-pa.googleapis.com
+appinvite-pa.googleapis.com
+appsitemsuggest-pa.googleapis.com
+auditrecording-pa.googleapis.com
+chromecontentsuggestions-pa.googleapis.com
+chromefeedcontentsuggestions-pa.googleapis.com
+chromereader-pa.googleapis.com
+clientmetrics-pa.googleapis.com
+clouderrorreporting.googleapis.com
+datamixer-pa.googleapis.com
 datamixer.pa.googleapis.com
+datasaver.googleapis.com
+digitalassetlinks.googleapis.com
+digitalassetlinks.mtls.googleapis.com
+exploresites-pa.googleapis.com
 firebase-settings.crashlytics.com
+firebasedurablelinks-ipv4-pa.googleapis.com
+firebasedurablelinks-ipv6-pa.googleapis.com
+firebasedynamiclinks-ip4.googleapis.com
+firebasedynamiclinks-ip6.googleapis.com
+firebasedynamiclinks-ipv4.googleapis.com
+firebasedynamiclinks-ipv6.googleapis.com
 firebaseinstallations.googleapis.com
+firebaselogging.googleapis.com
+firebaseperusertopics-pa.googleapis.com
+footprints-pa.googleapis.com
 fundingchoicesmessages.google.com
 geomobileservices-pa.googleapis.com
+ging-chromecontentsuggestions-pa.googleapis.com
 googlesyndication.com
 growth-pa.googleapis.com
+imasdk.googleapis.com
+mobilecrashreporting.googleapis.com
+mobilenetworkscoring-pa.googleapis.com
 myphonenumbers-pa.googleapis.com
+offlinepages-pa.googleapis.com
 pay-users-pa.googleapis.com
 people-pa.googleapis.com # Used by G Photos to do face-grouping
+playatoms-pa.googleapis.com
+plusmixer-pa.googleapis.com
+recommendationengine.googleapis.com
 semanticlocation-pa.googleapis.com
 speechs3proto2-pa.googleapis.com
+staging-chromecontentsuggestions-pa.googleapis.com
 sxone-pa.googleapis.com
+test-chromecontentsuggestions-pa.googleapis.com
 userlocation.googleapis.com
 
 ## GGLkram ##
@@ -59,9 +95,9 @@ v1.oddserve.com # Banner
 ads.themoneytizer.com
 ads3-adnow.com
 asqpniwvxea.com
+blockadsnot.com
 browser.events.data.microsoft.com
 commercialvalue.org
-counter.yadro.ru
 dfmagazine.co.uk
 douhooke.net
 geoip.redirect-ads.com
@@ -91,7 +127,6 @@ statics.wplay.me
 tenthsfrumpy.com
 whowhipi.net
 wpadmngr.com
-www.blockadsnot.com
 
 ## Android Box ##
 ads.cc
@@ -113,15 +148,20 @@ st-n.ads1-adnow.com
 8522212.fls.doubleclick.net
 ad.doubleclick.com
 ad.doubleclick.ne
+adgoogle.net
+admobclick.com
 advertisers.doubleclick.com
 advertisersapitest.doubleclick.com
 betareportcentral.doubleclick.com
 click.comms.doubleclick.com
+clickserver.googleads.com
 cm.g.doubleclick.net
+doubleclick.com
 doubleclick.net
 emea.doubleclick.com
-fls.doubleclick.nett
+fls.doubleclick.net
 g.doubleclick.net
+googleads.com
 googleads.g.doubleclick.net
 googleads4.g.doubleclick.net
 help.doubleclick.com
@@ -131,6 +171,13 @@ logincrc.doubleclick.com
 m.doubleclick.com
 mediavisor.doubleclick.com
 ns2.doubleclick.com
+pagead.googleadservices.com
+pagead.googlesyndication.com
+pagead2.googleadservices.com
+pagead3.googleadservices.com
+pagead3.googlesyndication.com
+pagead46.googleadservices.com
+pagead46.googlesyndication.com
 reportcentral.doubleclick.com
 reports.doubleclick.com
 search.doubleclick.com
@@ -142,17 +189,20 @@ studio.doubleclick.com
 studioapi.doubleclick.com
 survey.g.doubleclick.net
 team.doubleclick.com
+tpc.googlesyndication.com
 view.comms.doubleclick.com
-www.doubleclick.com
 www2.doubleclick.com
 www3.doubleclick.com
 
 ## Google Analytics ##
 apis.googletagmanager.com
 click.google-analytics.com
+ctp.googletagmanager.com
 fonts.gstatic.com
+google-analytics.com
 googleadservices.com
 googletagmanager.com
+googletagmanager.l.google.com
 googletagservices.com
 htps.googletagmanager.com
 qs11.googletagmanager.com
@@ -161,11 +211,6 @@ ssl.google-analytics.com
 tagmanager.google.com
 test-web.googletagmanager.com
 wp.googletagmanager.com
-www-googletagmanager.l.google.com
-www.ctp.googletagmanager.com
-www.google-analytics.com
-www.googletagmanager.com
-www.googletagservices.com
 
 ## Hard Backed ##
 795387-android-ds.metric.gstatic.com
@@ -173,7 +218,6 @@ A535586-android-ds.metric.gstatic.com
 adform.net
 alexametrics.com
 amazon-adsystem.com
-google-analytics.com
 traffic.alexa.com
 
 ## Snapchat ##
@@ -191,12 +235,12 @@ content-recognition.snapchat.com
 learn.advertising.snapchat.com
 perception.snapchat.com
 server-analytics.snapchat.com
+soundhound.com # Music Recogintion
 staging.app-analytics.snapchat.com
 staging.server-analytics.snapchat.com
-tr.snapchat.com # Below domains from sub-domain scan.
+tr.snapchat.com
 usc.adserver.snapads.com
 web-frontend-dot-sc-analytics.appspot.com
-www.soundhound.com # Music Recogintion
 
 ## Other ##
 2mdn.net
@@ -237,6 +281,7 @@ dailygo.com
 event.insticator.com
 fireball.com
 geoip.insticator.com
+imore.com
 lupon.media
 m.servedby-buysellads.com
 mint.splunk.com
@@ -246,12 +291,11 @@ mparticle.com
 sandbox.geokaps.com
 scandit.com
 selltrafficfor.me
+sitelock.com
 srv.buysellads.com
 tealium.com
 tracker-api.my.com
 widgets.outbrain.com
-www.imore.com
-www.sitelock.com
 zopim.io
 
 ## Notsogreat ##
@@ -320,7 +364,6 @@ ie8eamus.com
 img.bet-at-home.com
 instant.page
 interclick.com
-iptvremote.ru
 jsc.mgid.com
 jtvnw.net
 kaspersky-labs.com
@@ -342,13 +385,12 @@ rpm.newrelisc.com
 scorecardresearch.com
 siteswithcontent.com
 skimresources.com
+socialofferspromo.com
 successiveterrified.com
 tags.expo9.exponential.com
 tags2.adshell.net
 uydeapvmmlvdp.com
 v3.logger.pw
-www.mgid.com
-www.socialofferspromo.com
 
 ## DISQUS ##
 c.disquscdn.com
@@ -368,6 +410,7 @@ analytics.samsungknox.com
 api.ad.xiaomi.com
 app.chat.xiaomi.ne
 bigdata.ssp.samsung.com
+cdn.ad.xiaomi.com
 config.samsungads.com
 globalapi.ad.xiaomi.com
 insights.samsung.com
@@ -385,7 +428,6 @@ smetrics.samsung.com
 stat.xiaomi.com
 supportmetrics.apple.com
 trackingshipment.apple.com
-www.cdn.ad.xiaomi.com
 
 ## Popups & Similar ##
 ae01.alicdn.com	
@@ -399,7 +441,7 @@ cdn.pixfuture.com
 cdn.snigelweb.com
 cdn.taboola.com
 cg9p1w7qojc0.l.adsco.re
-chdaismlykqep.com	
+chdaismlykqep.com
 click.jadspro.live
 click.seodollars.com
 cm.steepto.com
@@ -407,6 +449,7 @@ cmap.alibaba.com
 collector.githubapp.com
 comscore.com
 contextual.media.net
+daqijjpjow.com
 df80k0z3fi8zg.cloudfront.net
 domslx.com
 dqy6rzwcs.com
@@ -430,6 +473,7 @@ media.ethicalads.io
 oload.space
 p.media-imdb.com
 projectagoratech.com	
+prqqmfkedev.com
 recoco.it
 s-img.steepto.com
 s.click.aliexpress.com	
@@ -446,34 +490,34 @@ tt1.openload.co
 vdo.ai
 vidcpm.com
 whitepages.com
-www.asqpniwvxea.com
-www.chdaismlykqep.com
-www.daqijjpjow.com
-www.koszzhucazsboe.com
-www.prqqmfkedev.com
-www.vidcpm.com
-www.xsnfmaxicj.com
-www.xtivbxvndnv.com
 xml.serverhost1.com
 xml.trafficmoose.com
+xsnfmaxicj.com
 xtivbxvndnv.com
 
 ## Banners on Streaming Sites ##
 1140839.catchtheclick.com
 3e8e.routgveriprt.com
 4t8l.routgveriprt.com
+56.com
 advertising.apple.com
 adxbid.info
 analytics.agenedia.com
 analytics.openload.co
+argggultrji.com
 axeclbthp.com
 bc5i.routgveriprt.com
+bhplyiegippcw.com
 bigcoin.io
 cackle.me
+cashimashi.com
 cdn-s5.vkcache.com
 cdn4.telesco.pe
+cdn4ads.com
 code.ionicframework.com
 dingsao6.site
+eoemyywmjx.com
+eqrauafet.com
 eywirvfupvo.com
 fcafnvgdokqfo.com
 feed.seodollars.com
@@ -481,18 +525,21 @@ fffff.at
 flowgoder.cn
 gaijiglo.net
 gedmhqqipuz6wfon.pro
+geniusdexchange.com
 global.stun.twilio.com
 grauroocm.com
 greenplasticdua.com
 gswiegmikzh.com
+gvnqfiwzronbq.com
 gz5h.routgveriprt.com
 h4ahsm.vkcache.com
 hofraxopw.com
+hwyoikfrfdtjp.com
 i.cackle.me
-idb-fac2.mgxcdn.ru
 img.babsft.com
 in-page-push.com
 iqiznxqn.com
+izwffvgxs.com
 jzohcwnovrk.com
 kayak.com
 lrd.to
@@ -509,9 +556,14 @@ p.typekit.net
 pl14963927.pvclouds.com
 pqgc.routgeriprt.com
 pucemara.com
+qaizylhmcxv.com
+qpianhkxxuc.com
+qsfgszjm.com
 realktalk.xyz
 relay.errlog.io
+rkyijdrys.com
 routgveriprt.com
+ryqkjfsnmrya.com
 ryvqkjfsnmrya.com
 shoppinglifestyle.biz
 static.iloacmoam.com
@@ -520,32 +572,11 @@ tyu1.routgveriprt.com
 uod2quk646.com
 uprlyxksgcffgn.com
 use.typekit.net
+uudehlgu.com
 vignerez.net
 vkcdnservice.appspot.com.storage.googleapis.com
 waaw.tv
-www.56.com
-www.argggultrji.com
-www.axeclbthp.com
-www.bhplyiegippcw.com
-www.cashimashi.com
-www.cdn4ads.com
-www.dlmghzdca.com
-www.eoemyywmjx.com
-www.eqrauafet.com
-www.geniusdexchange.com
-www.gswiegmikzh.com
-www.gvnqfiwzronbq.com
-www.hofraxopw.com
-www.hwyoikfrfdtjp.com
-www.izwffvgxs.com
-www.qaizylhmcxv.com
-www.qpianhkxxuc.com
-www.qsfgszjm.com
-www.rkyijdrys.com
-www.ryqkjfsnmrya.com
-www.uprlyxksgcffgn.com	
-www.uudehlgu.com
-www.xfasadle.com
+xfasadle.com
 youview.io
 zqxmeahcm.com
 zuyvdqnsoq.mystream.io
@@ -560,6 +591,7 @@ ads.stickyadstv.com
 adskeeper.co.uk
 adsrvr.org
 advertising.com
+advinci.co
 adxpremium.services
 adyen.com
 ak.sail-horizon.com
@@ -599,11 +631,11 @@ deliver.vkcdnservice.com
 delivery.swid.swichtadhub.com
 demdex.net
 dfmagazone.co.uk
+dianomi.com
 dotmetrics.net
 dpcomepost.tt.omtrdc.net
 dpm.demdex.ner
 dpm.demdex.net
-easyranking.de
 eus.rubiconproject.com
 everesttech.net
 exelator.com
@@ -614,14 +646,11 @@ graphql.usercentrics.eu
 gum.criteo.com
 gwwzlwibbws.com
 hb-api.omnitagsjs.com
-hitcount.de
-hitpage.de
 hqq.tv
 htlb.casalemedia.com
+huhkfzino.com
 ice.360yield.com
-informer.yandex.ru
 insights.navidrome.org
-ipstats.de
 iyfnzgb.com
 js-de.sentry-cdn.com
 js.hs-analytics.net
@@ -633,14 +662,11 @@ kvygpqttzqhhl.com
 librato-collector.genius.com
 match.adsrvr.org
 mblkunfd.com
-met.vgwort.de
 moneymakercdn.com
 mookie1.com
 o4uxrk33.com
 online-metrix.net
 openx.net
-orbidder.otto.de
-perlentaucher.de
 permutive.app
 petchesa.net
 ping.staticmoly.me
@@ -657,17 +683,15 @@ prg.smartadserver.com
 propellerclick.com
 pub.doubleverify.com
 pubmatic.com
-ranktraffic.de
-rapidstats.de
 rubiconproject.com
 s.ntv.io
-script.ioam.de
 segment-data.zqtk.net
 serverkompetenz.net
 servicer.adskeeper.com
 sessions.bugsnag.com
 smartadserver.com
 spotxchange.com
+sqpgncbm.com
 st.chatango.com
 statcounter.com
 stats.wp.com
@@ -675,27 +699,18 @@ supercounters.com
 syndication.exdynsrv.com
 tag.targeting.unrulymedia.com
 track.gravitec.media
-trafficcenter.de
 trafficjunky.net
 tru.am
 try.abtasty.com
 turn.com
 uk-script.dotmetrics.net
 unifyintent.com
-ups.xplosion.de
 v3.fstats.xyz
 velocitycdn.com
-vg07.met.vgwort.de
-vg08.met.vgwort.de
 visariomedia.com
 visualwebsiteoptimizer.com
 vitals.vercel-insights.com
-www.advinci.co
-www.dianomi.com
-www.huhkfzino.com
-www.sqpgncbm.com
-www.statcounter.com
-www.windowssearch-exp.com
+windowssearch-exp.com
 yastatic.net
 
 ## Tech Sites ##
@@ -714,7 +729,7 @@ sp-prod.net
 srvtrck.com
 static.scroll.com
 
-## prvcy ##
+## Privacy ##
 ads.assemblyexchange.com
 appspot.l.google.com
 c.amazon-adsystem.com
@@ -728,13 +743,49 @@ narrativ.com
 piwik.avm.de
 use.adserver.com
 
-## phish ##
-cinny.im # future phishing
-newpipe.app
-snapdrop.net
-ublock.org
-wpad.de
-wpad.dk
-wpad.eu
-wpad.id
-wpad.site
+## My Own ##
+acceptable.a-ads.com
+ad.fyber.angsrvr.com
+ad.mopub.com
+ade.googlesyndication.com
+ads-eu.amillionads.com
+ads.samsung.com
+adservice.google.com.au
+assets.adobedtm.com
+au-integration.citrusad.com
+au.np.adproxy.ndmdhs.com
+bambuser.com
+c0.adalyser.com
+c2.adalyser.com
+c3.adalyser.com
+c5.adalyser.com
+chat.kindlycdn.com
+dashboard.evolveplatform.net
+e.reddit.com
+engine.fyber.com
+evolveplatform.net
+ezoic.net
+gql-realtime.reddit.com
+hb.adtelligent.com
+hb.nexage.com
+hbopenbid.pubmatic.com
+il.fi
+iltalehti.fi
+is.fi
+optimizationguide-pa.googleapis.com
+outcome-ssp.supersonicads.com
+player.adtelligent.com
+rules.noadblock.org
+sdk.appsflyer.com
+sdk.iad-01.braze.com
+sdk.iad-02.braze.com
+sdk.iad-03.braze.com
+sdk.iad-04.braze.com
+sdk.iad-05.braze.com
+sdk.iad-06.braze.com
+ts.market.mi-img.com
+us.intellitxt.com
+wildcard.moatads.com.edgekey.net
+yt.moatads.com
+zdassets.com
+zendesk.com
