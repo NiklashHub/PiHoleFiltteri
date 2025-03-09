@@ -726,18 +726,18 @@ srvtrck.com
 static.scroll.com
 
 ## Privacy ##
-ads.assemblyexchange.com
-appspot.l.google.com
-c.amazon-adsystem.com
-cdns.symplr.de
-cloudlareinsights.com
-csi.gstatic.com
-data.flurry.com
-firebaseremoteconfig.googleapis.com
-graph.facebook.com
-narrativ.com
-piwik.avm.de
-use.adserver.com
+||ads.assemblyexchange.com^
+||appspot.l.google.com^
+||c.amazon-adsystem.com^
+||cdns.symplr.de^
+||cloudlareinsights.com^
+||csi.gstatic.com^
+||data.flurry.com^
+||firebaseremoteconfig.googleapis.com^
+||graph.facebook.com^
+||narrativ.com^
+||piwik.avm.de^
+||use.adserver.com^
 
 ## My Own ##
 ||acceptable.a-ads.com^
