@@ -710,20 +710,20 @@ windowssearch-exp.com
 yastatic.net
 
 ## Tech Sites ##
-ads-static.conde.digital
-ads.adthrive.com
-api.piano.io
-cdn.parsely.com
-clc.stackoverflow.com
-f.convertkit.com
-globalservices.conde.digital
-log.optimezely.com
-logs.optimzely.com
-parsely.com
-s.skimresources.com
-sp-prod.net
-srvtrck.com
-static.scroll.com
+||ads-static.conde.digital^
+||ads.adthrive.com^
+||api.piano.io^
+||cdn.parsely.com^
+||clc.stackoverflow.com^
+||f.convertkit.com^
+||globalservices.conde.digital^
+||log.optimezely.com^
+||logs.optimzely.com^
+||parsely.com^
+||s.skimresources.com^
+||sp-prod.net^
+||srvtrck.com^
+||static.scroll.com^
 
 ## Privacy ##
 ||ads.assemblyexchange.com^
