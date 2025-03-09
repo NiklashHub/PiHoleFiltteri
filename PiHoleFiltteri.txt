@@ -393,12 +393,8 @@ uydeapvmmlvdp.com
 v3.logger.pw
 
 ## DISQUS ##
-c.disquscdn.com
-disqus.com
-disquscdn.com
-links.services.disqus.com
-realtime.services.disqus.com
-referrer.disqus.com
+||disqus.com^
+||*.disquscdn.com^
 
 ## Bloatware ##
 ad.samsungadhub.com
