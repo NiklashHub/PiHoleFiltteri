@@ -291,7 +291,6 @@
 ||instant.page^
 ||interclick.com^
 ||jsc.mgid.com^
-||jtvnw.net^
 ||kaspersky-labs.com^
 ||kaspersky.com^
 ||mgid.com^
