@@ -152,30 +152,17 @@ st-n.ads1-adnow.com
 ||pagead.googleadservices.com^
 
 ## Google Analytics ##
-apis.googletagmanager.com
-click.google-analytics.com
-ctp.googletagmanager.com
-fonts.gstatic.com
-google-analytics.com
-googleadservices.com
-googletagmanager.com
-googletagmanager.l.google.com
-googletagservices.com
-htps.googletagmanager.com
-qs11.googletagmanager.com
-sandbox.google-analytics.com
-ssl.google-analytics.com
-tagmanager.google.com
-test-web.googletagmanager.com
-wp.googletagmanager.com
+||*.googletagmanager.*^
+||*.google-analytics.*^
+||fonts.gstatic.com^
+||googleadservices.com^
 
 ## Hard Backed ##
-795387-android-ds.metric.gstatic.com
-A535586-android-ds.metric.gstatic.com
-adform.net
-alexametrics.com
-amazon-adsystem.com
-traffic.alexa.com
+||*.metric.gstatic.com^
+||adform.net^
+||alexametrics.com^
+||amazon-adsystem.com^
+||traffic.alexa.com^
 
 ## Snapchat ##
 ad-center.snapchat.com
