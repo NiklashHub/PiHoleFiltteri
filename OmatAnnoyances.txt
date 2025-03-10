@@ -1340,6 +1340,3 @@ zdwidget3-bs.sphereup.com
 /yhteistyossa(\.|/|_)/
 /_mainos\./
 /_mainosnappi\./
-||vauva.fi/modules/custom/vauva_cts/modules/vauva_cts_native/js/vauva_cts_native.js$script,domain=vauva.fi
-||vertaa.fi^*/showads.js$script,domain=vertaa.fi
-||vg.is.fi/autotie-is-*/$subdocument
