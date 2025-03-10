@@ -173,6 +173,7 @@ celestialspectra.com
 changeablecats.com
 chargecracker.com
 chat.freshdesk.com
+chatbro.com
 check.ddos-guard.net
 chesscolor.com
 childlikecrowd.com
@@ -336,6 +337,7 @@ fastcomments.com
 faucetfoot.com
 faultycanvas.com
 fearlessfaucet.com
+feedgrabbr.com
 fewjuice.com
 fewkittens.com
 financefear.com
@@ -365,7 +367,9 @@ geo-eu.snigelweb.com
 geo-us.snigelweb.com
 geo.ngtv.io
 geo2.statistic.ovh
+geolify.com
 geolocation.onetrust.com
+geoplugin.net
 giddycoat.com
 givevacation.com
 gizmos.hawk-tech.co.uk
@@ -403,6 +407,8 @@ honorableland.com
 hospitablehall.com
 hospitablehat.com
 htlbid.com
+htmlcommentbox.com
+hypercms.sk
 i.txtsrving.info
 icf.improvely.com
 im.tradew.com
@@ -410,6 +416,7 @@ inconclusiveaction.com
 innocentlamp.com
 instant.page
 intellipopup.com
+intensedebate.com
 iridescentdusk.com
 isenselabs.com
 iubenda.com
@@ -430,6 +437,7 @@ jubilantglimmer.com
 jubilanttempest.com
 jubilantwhisper.com
 keenquill.com
+klaviyo.com
 knitstamp.com
 knottyswing.com
 laboredlocket.com
@@ -557,6 +565,7 @@ popup2.lifterapps.com
 popupmaker.com
 possibleboats.com
 potisni.me
+povezano.com
 powerfulcopper.com
 prepareplanes.com
 priceypies.com
@@ -654,6 +663,7 @@ scripts.mobdub.com
 sdk.beeketing.com
 sdk.hoodline.com
 sdk.privacy-center.org
+searchanise.com
 seatsmoke.com
 secretturtle.com
 secure.aha.io
@@ -789,6 +799,7 @@ ubiquitoussea.com
 uhf.microsoft.com
 ui-avatars.com
 ui.swogo.com
+ultimedia.com
 unaccountablepie.com
 unbecominglamp.com
 uncoveredexpert.com
@@ -798,7 +809,9 @@ unwieldyhealth.com
 unwieldyimpulse.com
 up-cookiemon.wavecdn.net
 upsells.boldapps.net
+upsite.co.il
 urs.zdnet.com
+usefomo.com
 uselesslumber.com
 usercentrics.eu
 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
@@ -831,25 +844,10 @@ widgets.membership.s-msft.com
 widgets.sprinkletxt.com
 wildcommittee.com
 wirypaste.com
+wishpond.com
 wistfulwaste.com
 workoperation.com
 wss.commentsmodule.com
-antiadblocksystems.com
-chatbro.com
-feedgrabbr.com
-geolify.com
-geoplugin.net
-htmlcommentbox.com
-hypercms.sk
-intensedebate.com
-iubenda.com
-klaviyo.com
-povezano.com
-searchanise.com
-ultimedia.com
-upsite.co.il
-usefomo.com
-wishpond.com
 www2.cbox.ws
 xxccdshj.com
 zestycrime.com
