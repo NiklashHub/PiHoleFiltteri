@@ -554,8 +554,6 @@
 ||dianomi.com^
 ||dotmetrics.net^
 ||dpcomepost.tt.omtrdc.net^
-||dpm.demdex.ner^
-||dpm.demdex.net^
 ||eus.rubiconproject.com^
 ||everesttech.net^
 ||exelator.com^
@@ -657,7 +655,6 @@
 ||cloudlareinsights.com^
 ||csi.gstatic.com^
 ||data.flurry.com^
-||firebaseremoteconfig.googleapis.com^
 ||graph.facebook.com^
 ||narrativ.com^
 ||piwik.avm.de^
@@ -701,3 +698,5 @@
 ||yt.moatads.com^
 ||zdassets.com^
 ||zendesk.com^
+
+@@||cdn.cookielaw.org^$important
