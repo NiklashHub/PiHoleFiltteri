@@ -2,6 +2,7 @@
 ! https://raw.githubusercontent.com/deathbybandaid/piholeparser/master/Subscribable-Lists/ParsedBlacklists/Fanboy-Annoyances-List.txt
 ! https://raw.githubusercontent.com/soteria-nou/domain-list/master/enrichments.txt
 ! https://raw.githubusercontent.com/soteria-nou/domain-list/refs/heads/master/widgets.txt
+! https://raw.githubusercontent.com/johang/cookie-consent-hosts/refs/heads/master/hosts.txt
 
 20min.rcmd.tda.io
 a.c0594.com
