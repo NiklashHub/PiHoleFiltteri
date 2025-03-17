@@ -673,7 +673,6 @@
 ||au.np.adproxy.ndmdhs.com^
 ||bambuser.com^
 ||c[0-9].adalyser.com^
-||chat.kindlycdn.com^
 ||dashboard.evolveplatform.net^
 ||e.reddit.com^
 ||engine.fyber.com^
