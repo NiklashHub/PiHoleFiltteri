@@ -22,7 +22,6 @@
 
 ## GGL Apis ##
 ||1.chromefeedcontentsuggestions-pa.googleapis.com^
-||ajax.googleapis.com^
 ||androidpay-users-pa.googleapis.com^
 ||androidsuggesthub-pa.googleapis.com^
 ||appinvite-ipv4-pa.googleapis.com^
@@ -354,7 +353,6 @@
 ||ae01.alicdn.com^
 ||allrecepies.com^
 ||analytics*.vdo.ai^
-||assets.alicdn.com^
 ||cdn.carbonads.com^
 ||cdn.mgid.com^
 ||cdn.pixfuture.com^
@@ -668,7 +666,6 @@
 ||ads-eu.amillionads.com^
 ||ads.samsung.com^
 ||adservice.google.com.au^
-||assets.adobedtm.com^
 ||au-integration.citrusad.com^
 ||au.np.adproxy.ndmdhs.com^
 ||bambuser.com^
