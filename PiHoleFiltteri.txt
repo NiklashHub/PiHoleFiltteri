@@ -58,7 +58,6 @@
 ||offlinepages-pa.googleapis.com^
 ||pay-users-pa.googleapis.com^
 ||people-pa.googleapis.com^ # Used by G Photos to do face-grouping
-||playatoms-pa.googleapis.com^
 ||plusmixer-pa.googleapis.com^
 ||recommendationengine.googleapis.com^
 ||semanticlocation-pa.googleapis.com^
@@ -350,7 +349,6 @@
 ||trackingshipment.apple.com^
 
 ## Popups & Similar ##
-||ae01.alicdn.com^
 ||allrecepies.com^
 ||analytics*.vdo.ai^
 ||cdn.carbonads.com^
@@ -394,7 +392,6 @@
 ||prqqmfkedev.com^
 ||recoco.it^
 ||s-img.steepto.com^
-||s.click.aliexpress.com^
 ||s7.addthis.com^
 ||scripts.journeymv.com^
 ||served-by.pixfuture.com^
@@ -547,7 +544,6 @@
 ||datadoghq.com^
 ||deliver.vkcdnservice.com^
 ||delivery.swid.swichtadhub.com^
-||demdex.net^
 ||dfmagazone.co.uk^
 ||dianomi.com^
 ||dotmetrics.net^
